@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Pro_QuanLySinhVien_Nhom1
 {
-    public partial class Form1 : Form
+    public partial class Frm_Main : Form
     {
-        public Form1()
+        public Frm_Main()
         {
             InitializeComponent();
         }
